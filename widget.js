@@ -1,7 +1,7 @@
 
 (function () {
   const SCRIPT_URL =
-    "https://script.google.com/macros/s/AKfycbz31SLglyoogXnwxFzHGCO_I_ogUZzP1ToGcgW9RtM0pws24eFDBG-hNRofzG792AAbXw/exec";
+    "g-scripte url";
 
   function jsonp(params, callback) {
     const cbName = "cb_" + Math.random().toString(36).substring(2);
